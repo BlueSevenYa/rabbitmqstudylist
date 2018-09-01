@@ -1,0 +1,1 @@
+springboot2.x整合rabbitmq进行简单的操作
