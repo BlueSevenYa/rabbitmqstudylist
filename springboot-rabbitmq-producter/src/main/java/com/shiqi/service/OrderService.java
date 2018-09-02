@@ -12,4 +12,6 @@ public interface OrderService {
 
     int insertOrder(Order order);
 
+    void createOrder(Order order);
+
 }
